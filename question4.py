@@ -1,5 +1,5 @@
 def question4_1():
-    answer = ['nominal', 'ordinal']  
+    answer = ['nominal', 'ordinal']
     return answer
 
 def question4_2():
@@ -8,7 +8,7 @@ def question4_2():
 
 def question4_3():
     answer = ['ratio', 'interval']
-    return answer 
+    return answer
 
 def question4_4():
     answer = ['ratio', 'interval']
@@ -27,5 +27,5 @@ def question4_7():
     return answer
 
 def question4_8():
-    answer = ['ratio', 'ratio'] 
+    answer = ['ratio', 'ratio']
     return answer

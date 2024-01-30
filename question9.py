@@ -7,13 +7,14 @@ def question9_2():
     return answer
 
 def question9_3():
-    answer = 'correlation coefficient'  
-    return answer 
+    answer = 'Correlation Coefficient'
+    return answer
 
 def question9_4():
     answer = 'Cosine Similarity'
-    return answer 
+    return answer
 
 def question9_5():
     answer = 'Cosine Similarity'
-    return answer 
+    return answer
+
